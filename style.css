@@ -1,0 +1,70 @@
+body{
+    font-family:Outfit, sans-serif;
+    Font-size : 18px;
+    background-color: hsl(217, 54%, 11%);
+    
+}
+.card{
+    margin: auto;
+    padding: 20px;
+    margin-top: 100px;
+    width: 18rem;
+    background-color: hsl(216, 50%, 16%);
+    box-shadow: 10px 10px 10px hsl(217, 54%, 11%);
+    border-radius: 15px;
+}
+h5{
+    color: #fff;
+    padding-top:10px
+}
+p{
+    color: hsl(215, 51%, 70%);
+    font-size: 15px;
+}
+.float-left{
+    width: 45%;
+    float:left;
+    color:hsl(178, 100%, 50%);
+    font-size:15px;
+}
+   
+
+
+.icon1,.icon2 {
+    width: 20px;
+    padding-top:1px;
+}
+
+.float-right{
+    width: 38%;
+    float:right;
+    color: hsl(215, 51%, 70%);
+    font-size:15px;
+}
+.flex-1{
+display: flex;
+justify-content: space-between;
+}
+.float-lft{
+    display: block;
+    width: 30%;
+    border: 2px solid white;
+    border-radius: 50px;
+}
+
+.float-rght{
+width: 70%;
+font-size: 14px;
+position: relative;
+top:24px;
+left: 10px;
+color: hsl(215, 51%, 70%)
+}
+span{
+    color:  hsl(0, 0%, 100%);
+}
+hr{
+    background-color: hsl(215, 32%, 27%);
+    border: 1.5px solid hsl(215, 32%, 27%);
+}
+
